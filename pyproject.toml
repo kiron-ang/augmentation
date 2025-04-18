@@ -1,10 +1,10 @@
 [project]
 name = "augmentation"
-version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
-requires-python = ">=3.12.9"
+version = "0.0.1"
+description = "Augmenting facial datasets with TensorFlow machine learning models!"
+readme = "readme.txt"
+requires-python = "==3.12.9"
 dependencies = [
-    "notebook>=7.4.0",
-    "tensorflow-cpu>=2.18.0",
+    "notebook==7.4.0",
+    "tensorflow-cpu==2.15.0",
 ]
